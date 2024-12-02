@@ -1,5 +1,6 @@
 #Profile
 .DS_Store
+secret.txt
 
 # Logs
 logs
